@@ -22,9 +22,9 @@ This project analyzes global electric vehicle adoption trends using an interacti
 ![Home](home.gif)
 
 ## 📷 Report Pages
-![Dashboard 1](dashboard1.png)
-![Dashboard 2](dashboard2.png)
-![Dashboard 3](dashboard3.png)
+![Dashboard 1](overview.png)
+![Dashboard 2](growthanalysis.png)
+![Dashboard 3](eneryandenvirnmentalimpact.png)
 
 ## 🔎 Advanced Features
 
